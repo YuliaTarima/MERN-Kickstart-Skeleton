@@ -8,7 +8,7 @@
 ####  How to run this code
 1. Clone this repository
     - open command line and cd to the desired location
-    ```  git clone git@github.com:YuliaTarima/MERN-Kickstart-Skeleton.git  ```
+    - ```  git clone git@github.com:YuliaTarima/MERN-Kickstart-Skeleton.git  ```
 2. Install dependencies:
    - open command line in the cloned folder
    - run ```  npm install  ``` or ``` yarn ```
